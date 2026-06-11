@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Previred - Indicadores Previsionales 2026</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+  <nav class="sidebar">
+    <div class="sidebar-brand">
+      <div class="icon">📊</div>
+      <h3>Previred</h3>
+      <p>Indicadores Previsionales</p>
+    </div>
+    <div class="sidebar-section" id="sidebar-filters"></div>
+    <div class="sidebar-stats" id="sidebar-stats"></div>
+  </nav>
+
+  <main class="main">
+    <div class="header">
+      <h1>📊 Indicadores Previsionales 2026</h1>
+      <p class="subtitle" id="range-text">Cargando...</p>
+    </div>
+
+    <div class="tab-bar">
+      <button class="tab-btn active" data-tab="resumen">📋 Resumen</button>
+      <button class="tab-btn" data-tab="evolucion">📈 Evolución</button>
+      <button class="tab-btn" data-tab="afp">🏦 Tasas AFP</button>
+      <button class="tab-btn" data-tab="asignacion">👨‍👩‍👧‍👦 Asignación Familiar</button>
+      <button class="tab-btn" data-tab="datos">📄 Datos Completos</button>
+    </div>
+
+    <div id="tab-resumen" class="tab-content active"></div>
+    <div id="tab-evolucion" class="tab-content"></div>
+    <div id="tab-afp" class="tab-content"></div>
+    <div id="tab-asignacion" class="tab-content"></div>
+    <div id="tab-datos" class="tab-content"></div>
+
+    <div class="footer">
+      Datos obtenidos de <a href="https://www.previred.com/indicadores-previsionales/" target="_blank">Previred</a>
+      y <a href="https://www.sii.cl/valores_y_fechas/utm/utm2026.htm" target="_blank">SII</a>.
+    </div>
+  </main>
+
+  <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.7/dist/chart.umd.min.js"></script>
+  <script src="js/app.js"></script>
+</body>
+</html>

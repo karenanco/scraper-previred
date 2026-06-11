@@ -1,0 +1,590 @@
+{
+  "previred": {
+    "fields": [
+      "mes",
+      "periodo_remuneracion",
+      "uf_valor",
+      "uf_fecha",
+      "renta_tope_afp",
+      "renta_tope_ips",
+      "renta_tope_cesantia",
+      "afp_tasas",
+      "afc_tasas",
+      "apv_tope_mensual",
+      "apv_tope_anual",
+      "deposito_convenido_tope",
+      "utm_valor",
+      "uta_valor",
+      "renta_minima_dependientes",
+      "renta_minima_menores",
+      "renta_minima_casa_particular",
+      "renta_minima_no_remuneracional",
+      "seguro_social_tasa",
+      "sis_tasa",
+      "salud_ccaf",
+      "salud_fonasa",
+      "trabajo_pesado_tasa",
+      "trabajo_menos_pesado_tasa",
+      "asignacion_familiar"
+    ],
+    "rows": [
+      {
+        "mes": "Mayo 2026",
+        "periodo_remuneracion": "mayo 2026",
+        "uf_valor": 40610.69,
+        "uf_fecha": "31 de Mayo del 2026",
+        "renta_tope_afp": 3654962,
+        "renta_tope_ips": 2407212,
+        "renta_tope_cesantia": 5490565,
+        "afp_tasas": {
+          "Capital": {
+            "trabajador": "11,44%",
+            "empleador": "0,1%",
+            "total": "11,54%",
+            "independiente": "13,06%"
+          },
+          "Cuprum": {
+            "trabajador": "11,44%",
+            "empleador": "0,1%",
+            "total": "11,54%",
+            "independiente": "13,06%"
+          },
+          "Habitat": {
+            "trabajador": "11,27%",
+            "empleador": "0,1%",
+            "total": "11,37%",
+            "independiente": "12,89%"
+          },
+          "PlanVital": {
+            "trabajador": "11,16%",
+            "empleador": "0,1%",
+            "total": "11,26%",
+            "independiente": "12,78%"
+          },
+          "ProVida": {
+            "trabajador": "11,45%",
+            "empleador": "0,1%",
+            "total": "11,55%",
+            "independiente": "13,07%"
+          },
+          "Modelo": {
+            "trabajador": "10,58%",
+            "empleador": "0,1%",
+            "total": "10,68%",
+            "independiente": "12,20%"
+          },
+          "Uno": {
+            "trabajador": "10,46%",
+            "empleador": "0,1%",
+            "total": "10,56%",
+            "independiente": "12,08%"
+          }
+        },
+        "afc_tasas": null,
+        "apv_tope_mensual": 2030535,
+        "apv_tope_anual": 24366414,
+        "deposito_convenido_tope": 36549621,
+        "utm_valor": 70588,
+        "uta_valor": 847056,
+        "renta_minima_dependientes": 539000,
+        "renta_minima_menores": 402082,
+        "renta_minima_casa_particular": 539000,
+        "renta_minima_no_remuneracional": 347434,
+        "seguro_social_tasa": "0.9%",
+        "sis_tasa": "1,62%",
+        "salud_ccaf": "4,2%",
+        "salud_fonasa": "2,8%",
+        "trabajo_pesado_tasa": null,
+        "trabajo_menos_pesado_tasa": null,
+        "asignacion_familiar": {
+          "1 (A)": {
+            "monto": "$ 22.007",
+            "requisito": "Renta < ó = $ 631.976"
+          },
+          "2 (B)": {
+            "monto": "$ 13.505",
+            "requisito": "Renta > $ 631.976 < = $ 923.067"
+          },
+          "3 (C)": {
+            "monto": "$ 4.267",
+            "requisito": "Renta > $ 923.067 < = $ 1.439.668"
+          },
+          "4 (D)": {
+            "monto": "–",
+            "requisito": "Renta > $ 1.439.668"
+          }
+        }
+      },
+      {
+        "mes": "Abril 2026",
+        "periodo_remuneracion": "Abril 2026",
+        "uf_valor": 40120.2,
+        "uf_fecha": "30 de Abril del 2026",
+        "renta_tope_afp": 3610818,
+        "renta_tope_ips": 2390503,
+        "renta_tope_cesantia": 5424251,
+        "afp_tasas": {
+          "Capital": {
+            "trabajador": "11,44%",
+            "empleador": "0,1%",
+            "total": "11,54%",
+            "independiente": "13,06%"
+          },
+          "Cuprum": {
+            "trabajador": "11,44%",
+            "empleador": "0,1%",
+            "total": "11,54%",
+            "independiente": "13,06%"
+          },
+          "Habitat": {
+            "trabajador": "11,27%",
+            "empleador": "0,1%",
+            "total": "11,37%",
+            "independiente": "12,89%"
+          },
+          "PlanVital": {
+            "trabajador": "11,16%",
+            "empleador": "0,1%",
+            "total": "11,26%",
+            "independiente": "12,78%"
+          },
+          "ProVida": {
+            "trabajador": "11,45%",
+            "empleador": "0,1%",
+            "total": "11,55%",
+            "independiente": "13,07%"
+          },
+          "Modelo": {
+            "trabajador": "10,58%",
+            "empleador": "0,1%",
+            "total": "10,68%",
+            "independiente": "12,20%"
+          },
+          "Uno": {
+            "trabajador": "10,46%",
+            "empleador": "0,1%",
+            "total": "10,56%",
+            "independiente": "12,08%"
+          }
+        },
+        "afc_tasas": null,
+        "apv_tope_mensual": 2006010,
+        "apv_tope_anual": 24072120,
+        "deposito_convenido_tope": 36108180,
+        "utm_valor": 69889,
+        "uta_valor": 838668,
+        "renta_minima_dependientes": 539000,
+        "renta_minima_menores": 402082,
+        "renta_minima_casa_particular": 539000,
+        "renta_minima_no_remuneracional": 347434,
+        "seguro_social_tasa": "0,9%",
+        "sis_tasa": "1,62%",
+        "salud_ccaf": "4,2% R.I.",
+        "salud_fonasa": "2,8% R.I.",
+        "trabajo_pesado_tasa": null,
+        "trabajo_menos_pesado_tasa": null,
+        "asignacion_familiar": {
+          "1 (A)": {
+            "monto": "$ 22.007",
+            "requisito": "Renta $ 631.976"
+          },
+          "2 (B)": {
+            "monto": "$ 13.505",
+            "requisito": "Renta $ 631.976"
+          },
+          "3 (C)": {
+            "monto": "$ 4.267",
+            "requisito": "Renta $ 923.067"
+          },
+          "4 (D)": {
+            "monto": "$ 1.439.668",
+            "requisito": "Renta $ 1.439.668"
+          }
+        }
+      },
+      {
+        "mes": "Marzo 2026",
+        "periodo_remuneracion": "Marzo 2026",
+        "uf_valor": 39841.72,
+        "uf_fecha": "31 de Marzo del 2026",
+        "renta_tope_afp": 3585755,
+        "renta_tope_ips": 2387438,
+        "renta_tope_cesantia": 5386601,
+        "afp_tasas": {
+          "Capital": {
+            "trabajador": "11,44%",
+            "empleador": "0,1%",
+            "total": "11,54%",
+            "independiente": "12,98%"
+          },
+          "Cuprum": {
+            "trabajador": "11,44%",
+            "empleador": "0,1%",
+            "total": "11,54%",
+            "independiente": "12,98%"
+          },
+          "Habitat": {
+            "trabajador": "11,27%",
+            "empleador": "0,1%",
+            "total": "11,37%",
+            "independiente": "12,81%"
+          },
+          "PlanVital": {
+            "trabajador": "11,16%",
+            "empleador": "0,1%",
+            "total": "11,26%",
+            "independiente": "12,70%"
+          },
+          "ProVida": {
+            "trabajador": "11,45%",
+            "empleador": "0,1%",
+            "total": "11,55%",
+            "independiente": "12,99%"
+          },
+          "Modelo": {
+            "trabajador": "10,58%",
+            "empleador": "0,1%",
+            "total": "10,68%",
+            "independiente": "12,12%"
+          },
+          "Uno": {
+            "trabajador": "10,46%",
+            "empleador": "0,1%",
+            "total": "10,56%",
+            "independiente": "12,00%"
+          }
+        },
+        "afc_tasas": null,
+        "apv_tope_mensual": 1992086,
+        "apv_tope_anual": 23905032,
+        "deposito_convenido_tope": 35857548,
+        "utm_valor": 69889,
+        "uta_valor": 838668,
+        "renta_minima_dependientes": 539000,
+        "renta_minima_menores": 402082,
+        "renta_minima_casa_particular": 539000,
+        "renta_minima_no_remuneracional": 347434,
+        "seguro_social_tasa": "0,9%",
+        "sis_tasa": "1,54%",
+        "salud_ccaf": "4,2% R.I.",
+        "salud_fonasa": "2,8% R.I.",
+        "trabajo_pesado_tasa": null,
+        "trabajo_menos_pesado_tasa": null,
+        "asignacion_familiar": {
+          "1 (A)": {
+            "monto": "$ 22.007",
+            "requisito": "Renta $ 631.976"
+          },
+          "2 (B)": {
+            "monto": "$ 13.505",
+            "requisito": "Renta $ 631.976"
+          },
+          "3 (C)": {
+            "monto": "$ 4.267",
+            "requisito": "Renta $ 923.067"
+          },
+          "4 (D)": {
+            "monto": "$ 1.439.668",
+            "requisito": "Renta $ 1.439.668"
+          }
+        }
+      },
+      {
+        "mes": "Febrero 2026",
+        "periodo_remuneracion": "Febrero 2026",
+        "uf_valor": 39790.63,
+        "uf_fecha": "28 de Febrero del 2026",
+        "renta_tope_afp": 3581157,
+        "renta_tope_ips": 2382364,
+        "renta_tope_cesantia": 5379693,
+        "afp_tasas": {
+          "Capital": {
+            "trabajador": "11,44%",
+            "empleador": "0,1%",
+            "total": "11,54%",
+            "independiente": "12,98%"
+          },
+          "Cuprum": {
+            "trabajador": "11,44%",
+            "empleador": "0,1%",
+            "total": "11,54%",
+            "independiente": "12,98%"
+          },
+          "Habitat": {
+            "trabajador": "11,27%",
+            "empleador": "0,1%",
+            "total": "11,37%",
+            "independiente": "12,81%"
+          },
+          "PlanVital": {
+            "trabajador": "11,16%",
+            "empleador": "0,1%",
+            "total": "11,26%",
+            "independiente": "12,70%"
+          },
+          "ProVida": {
+            "trabajador": "11,45%",
+            "empleador": "0,1%",
+            "total": "11,55%",
+            "independiente": "12,99%"
+          },
+          "Modelo": {
+            "trabajador": "10,58%",
+            "empleador": "0,1%",
+            "total": "10,68%",
+            "independiente": "12,12%"
+          },
+          "Uno": {
+            "trabajador": "10,46%",
+            "empleador": "0,1%",
+            "total": "10,56%",
+            "independiente": "12,00%"
+          }
+        },
+        "afc_tasas": null,
+        "apv_tope_mensual": 1989532,
+        "apv_tope_anual": 23874378,
+        "deposito_convenido_tope": 35811567,
+        "utm_valor": 69611,
+        "uta_valor": 835332,
+        "renta_minima_dependientes": 539000,
+        "renta_minima_menores": 402082,
+        "renta_minima_casa_particular": 539000,
+        "renta_minima_no_remuneracional": 347434,
+        "seguro_social_tasa": "0,9%",
+        "sis_tasa": "1,54%",
+        "salud_ccaf": "4,2% R.I.",
+        "salud_fonasa": "2,8% R.I.",
+        "trabajo_pesado_tasa": null,
+        "trabajo_menos_pesado_tasa": null,
+        "asignacion_familiar": {
+          "1 (A)": {
+            "monto": "$ 22.007",
+            "requisito": "Renta $ 631.976"
+          },
+          "2 (B)": {
+            "monto": "$ 13.505",
+            "requisito": "Renta $ 631.976"
+          },
+          "3 (C)": {
+            "monto": "$ 4.267",
+            "requisito": "Renta $ 923.067"
+          },
+          "4 (D)": {
+            "monto": "$ 1.439.668",
+            "requisito": "Renta $ 1.439.668"
+          }
+        }
+      },
+      {
+        "mes": "Enero 2026",
+        "periodo_remuneracion": "Enero 2026",
+        "uf_valor": 39706.07,
+        "uf_fecha": "31 de Enero del 2026",
+        "renta_tope_afp": 3569576,
+        "renta_tope_ips": 2383678,
+        "renta_tope_cesantia": 5364290,
+        "afp_tasas": {
+          "Capital": {
+            "trabajador": "11,44%",
+            "empleador": "0,1%",
+            "total": "11,54%",
+            "independiente": "12,98%"
+          },
+          "Cuprum": {
+            "trabajador": "11,44%",
+            "empleador": "0,1%",
+            "total": "11,54%",
+            "independiente": "12,98%"
+          },
+          "Habitat": {
+            "trabajador": "11,27%",
+            "empleador": "0,1%",
+            "total": "11,37%",
+            "independiente": "12,81%"
+          },
+          "PlanVital": {
+            "trabajador": "11,16%",
+            "empleador": "0,1%",
+            "total": "11,26%",
+            "independiente": "12,70%"
+          },
+          "ProVida": {
+            "trabajador": "11,45%",
+            "empleador": "0,1%",
+            "total": "11,55%",
+            "independiente": "12,99%"
+          },
+          "Modelo": {
+            "trabajador": "10,58%",
+            "empleador": "0,1%",
+            "total": "10,68%",
+            "independiente": "12,12%"
+          },
+          "Uno": {
+            "trabajador": "10,46%",
+            "empleador": "0,1%",
+            "total": "10,56%",
+            "independiente": "12,00%"
+          }
+        },
+        "afc_tasas": null,
+        "apv_tope_mensual": 1985304,
+        "apv_tope_anual": 23823642,
+        "deposito_convenido_tope": 35735463,
+        "utm_valor": 69751,
+        "uta_valor": 837012,
+        "renta_minima_dependientes": 539000,
+        "renta_minima_menores": 402082,
+        "renta_minima_casa_particular": 539000,
+        "renta_minima_no_remuneracional": 347434,
+        "seguro_social_tasa": "0,9%",
+        "sis_tasa": "1,54%",
+        "salud_ccaf": "3,1% R.I.",
+        "salud_fonasa": "3,9% R.I.",
+        "trabajo_pesado_tasa": null,
+        "trabajo_menos_pesado_tasa": null,
+        "asignacion_familiar": {
+          "1 (A)": {
+            "monto": "$ 22.007",
+            "requisito": "Renta $ 631.976"
+          },
+          "2 (B)": {
+            "monto": "$ 13.505",
+            "requisito": "Renta $ 631.976"
+          },
+          "3 (C)": {
+            "monto": "$ 4.267",
+            "requisito": "Renta $ 923.067"
+          },
+          "4 (D)": {
+            "monto": "$ 1.439.668",
+            "requisito": "Renta $ 1.439.668"
+          }
+        }
+      }
+    ]
+  },
+  "utm": {
+    "fields": [
+      "mes",
+      "utm",
+      "uta",
+      "ipc_puntos",
+      "variacion_mensual",
+      "variacion_acumulada",
+      "variacion_anual"
+    ],
+    "rows": [
+      {
+        "mes": "Enero 2026",
+        "utm": 69751,
+        "uta": 837012,
+        "ipc_puntos": 109.71,
+        "variacion_mensual": "0,4%",
+        "variacion_acumulada": "0,4%",
+        "variacion_anual": "2,8%"
+      },
+      {
+        "mes": "Febrero 2026",
+        "utm": 69611,
+        "uta": 835332,
+        "ipc_puntos": 109.7,
+        "variacion_mensual": "0,0%",
+        "variacion_acumulada": "0,4%",
+        "variacion_anual": "2,4%"
+      },
+      {
+        "mes": "Marzo 2026",
+        "utm": 69889,
+        "uta": 838668,
+        "ipc_puntos": 110.75,
+        "variacion_mensual": "1,0%",
+        "variacion_acumulada": "1,4%",
+        "variacion_anual": "2,8%"
+      },
+      {
+        "mes": "Abril 2026",
+        "utm": 69889,
+        "uta": 838668,
+        "ipc_puntos": 112.18,
+        "variacion_mensual": "1,3%",
+        "variacion_acumulada": "2,7%",
+        "variacion_anual": "4,0%"
+      },
+      {
+        "mes": "Mayo 2026",
+        "utm": 70588,
+        "uta": 847056,
+        "ipc_puntos": 112.37,
+        "variacion_mensual": "0,2%",
+        "variacion_acumulada": "2,8%",
+        "variacion_anual": "3,9%"
+      },
+      {
+        "mes": "Junio 2026",
+        "utm": 71506,
+        "uta": 858072,
+        "ipc_puntos": null,
+        "variacion_mensual": null,
+        "variacion_acumulada": null,
+        "variacion_anual": null
+      },
+      {
+        "mes": "Julio 2026",
+        "utm": 71649,
+        "uta": 859788,
+        "ipc_puntos": null,
+        "variacion_mensual": null,
+        "variacion_acumulada": null,
+        "variacion_anual": null
+      },
+      {
+        "mes": "Agosto 2026",
+        "utm": null,
+        "uta": null,
+        "ipc_puntos": null,
+        "variacion_mensual": null,
+        "variacion_acumulada": null,
+        "variacion_anual": null
+      },
+      {
+        "mes": "Septiembre 2026",
+        "utm": null,
+        "uta": null,
+        "ipc_puntos": null,
+        "variacion_mensual": null,
+        "variacion_acumulada": null,
+        "variacion_anual": null
+      },
+      {
+        "mes": "Octubre 2026",
+        "utm": null,
+        "uta": null,
+        "ipc_puntos": null,
+        "variacion_mensual": null,
+        "variacion_acumulada": null,
+        "variacion_anual": null
+      },
+      {
+        "mes": "Noviembre 2026",
+        "utm": null,
+        "uta": null,
+        "ipc_puntos": null,
+        "variacion_mensual": null,
+        "variacion_acumulada": null,
+        "variacion_anual": null
+      },
+      {
+        "mes": "Diciembre 2026",
+        "utm": null,
+        "uta": null,
+        "ipc_puntos": null,
+        "variacion_mensual": null,
+        "variacion_acumulada": null,
+        "variacion_anual": null
+      }
+    ]
+  },
+  "last_updated": "11-06-2026 01:38"
+}
